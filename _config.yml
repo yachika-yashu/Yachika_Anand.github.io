@@ -1,21 +1,48 @@
 #-------------------------------
 # General Site Settings
-title: John Doe
-description: "I am an aspiring Data Scientist building up my portfolio which focuses on interesting and impactful projects that I have undertaken recently."
+title: Yachika Anand
+description: "Hi, I’m Yachika – a data enthusiast who loves turning questions into insights and insights into impact.
+I explore the world through data, AI, and education, constantly learning and sharing how technology, especially machine learning and deep learning, can solve real-world problems and inspire smarter decisions.
+
+📊 My Journey So Far
+
+Master’s in Information Technology with a strong foundation in data analytics, AI, machine learning (ML), deep learning (DL), Cloud, and Data Engineering tools with secure web practices .
+
+Skilled in Python (Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn), SQL, Power BI, and Tableau.
+
+Hands-on with EDA, data wrangling, data cleaning, model building, hyperparameter tuning, and evaluating ML/DL models.
+
+Experienced in ETL pipelines using PySpark, Databricks, and version-controlled workflows with Docker.
+
+🧠 What Excites Me
+
+Building predictive models with machine learning and exploring neural networks through deep learning.
+
+Simplifying technical concepts to make data science approachable and fun.
+
+Discovering patterns in data and communicating them through compelling visualizations and dashboards.
+
+🚀 Currently Exploring
+
+Deep learning frameworks like TensorFlow and PyTorch
+
+Data engineering workflows, MLOps, and cloud-based environments
+
+Creative ways to blend analytics, storytelling, and mentorship"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # About Section
 subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
-location: "London, UK"
+location: "Ontario, Canada"
 resume_url: "https://vidhyav656.github.io"
 avatar_image: /img/avatar.jpg
 
 #-------------------------------
 # Contact links
-linkedln: "https://linkedln.com/#" # Add your linkedln handle
-github: "https://github.com/#"  # Add your github handle
+linkedln: "https://www.linkedin.com/in/yachikanand/" # Add your linkedln handle
+github: "https://github.com/yachika-yashu/yachika-yashu"  # Add your github handle
 
 #-------------------------------
 # Build settings
